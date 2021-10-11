@@ -9,7 +9,7 @@ a {
   text-decoration: none;
 }
 
-.bt2{
+.bt2{z-index: 9999!important;
  white-space:nowrap !important;
     position: absolute!important;
    top: 41%!important;
@@ -24,7 +24,7 @@ a {
 left: -58px;
 grid-gap:20px;}
 
-.bts{padding: 10px 27px !important;font-weight: 600 !important;
+.bts{padding: 10px 27px !important;font-weight: 600 !important;z-index: 9999!important;
     width: 194px!important;
     color: #000 !important;font-size:14px !important;
 	line-height:8px !important;
