@@ -1597,7 +1597,7 @@ p{text-align:justify;}
     font-variant: normal;
 line-height: 1.2;}
 
-.social-links{margin-left: 300px;}
+.social-links{margin-left: 300px;    white-space: nowrap;}
 
 .fa-arrow-up{    position: relative;
     top: 11px;
