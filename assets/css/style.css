@@ -1581,7 +1581,7 @@ h4:hover{color:#000;}
 background: rgb(255, 204, 33) !important;}
 p{text-align:justify;}
 
-.sec-img{width:500px;height:300px;}
+.sec-img{width:500px;height:300px;    margin-left: -47px;}
 
 .uds {
   width: 65px;
